@@ -14,3 +14,15 @@ I have also worked with ASP.NET MVC, Web API, Javascript, TypeScript, ReactJs an
 ![Tamazi's GitHub Stats Overview (light)](https://raw.githubusercontent.com/batonitamazi/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![Tamazi's GitHub Languages (dark)](https://raw.githubusercontent.com/batonitamazi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Tamazi's GitHub Languages (light)](https://raw.githubusercontent.com/batonitamazi/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
+## 💻 Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
