@@ -4,6 +4,10 @@ I am a software developer specializing in C#, ASP.NET Core, REST, GraphQL, , Ent
 
 I have also worked with ASP.NET MVC, Web API, Javascript, TypeScript, ReactJs and etc.
 
+## 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batonitamazi&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batonitamazi&theme=default)
 
 ## 📊 GitHub Stats
 
