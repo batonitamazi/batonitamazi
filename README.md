@@ -11,7 +11,6 @@ I have also worked with ASP.NET MVC, Web API, Javascript, TypeScript, ReactJs an
 
 ## 📊 GitHub Stats
 
-![Tamazi's GitHub Streak](https://raw.githubusercontent.com/batonitamazi/github-stats/master/generated/streak.svg)
 ![Tamazi's GitHub Stats Overview (dark)](https://raw.githubusercontent.com/batonitamazi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Tamazi's GitHub Stats Overview (light)](https://raw.githubusercontent.com/batonitamazi/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![Tamazi's GitHub Languages (dark)](https://raw.githubusercontent.com/batonitamazi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
