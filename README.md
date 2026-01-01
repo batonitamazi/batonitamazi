@@ -4,10 +4,6 @@ I am a software developer specializing in C#, ASP.NET Core, REST, Entity Framewo
 
 I have also worked with ASP.NET MVC, Web API, Javascript, TypeScript, ReactJs and etc.
 
-## 📈 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/api?username=batonitamazi&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/batonitamazi)
-
 ## 📊 GitHub Stats
 
 ![Tamazi's GitHub Stats Overview (dark)](https://raw.githubusercontent.com/batonitamazi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
@@ -27,7 +23,7 @@ I have also worked with ASP.NET MVC, Web API, Javascript, TypeScript, ReactJs an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/tamazi-mirianashvili-735600210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamazi-mirianashvili-735600210/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamazimirianashvili@gmail.com)
 
 
