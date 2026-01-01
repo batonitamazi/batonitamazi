@@ -6,7 +6,7 @@ I have also worked with ASP.NET MVC, Web API, Javascript, TypeScript, ReactJs an
 
 ## 📈 GitHub Streak
 
-![Tamazi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batonitamazi&theme=radical)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=batonitamazi)](https://github.com/batonitamazi)
 
 ## 📊 GitHub Stats
 
