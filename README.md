@@ -4,7 +4,7 @@ I am a software developer specializing in C#, ASP.NET Core, REST, Entity Framewo
 
 I have also worked with ASP.NET MVC, Web API, Javascript, TypeScript, ReactJs and etc.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=batonitamazi&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/batonitamazi)
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=batonitamazi&theme=gruvbox_duo&hide_border=true)](https://github.com/batonitamazi)
 
 ## 📊 GitHub Stats
 
